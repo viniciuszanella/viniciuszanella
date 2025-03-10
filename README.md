@@ -3,12 +3,8 @@
 
 - 🌱 I’m currently studying analysis and development at Escola SESI
 - 💬 I am 17 years old, currently living in Brazil. I have fluent English, intermediate Spanish and experience with JAVA and SQL
-- 📫 How to reach me **vini93112@gmail.com**
+- 📫 How to reach me **vini93112@gmail.com** / https://br.linkedin.com/in/vin%C3%ADcius-zanella-836596306
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="[https://linkedin.com/in/https://br.linkedin.com/in/vin%c3%adcius-zanella-836596306](https://br.linkedin.com/in/vin%C3%ADcius-zanella-836596306)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://br.linkedin.com/in/vin%c3%adcius-zanella-836596306" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Skills:</h3>
 <p align="left"> 
