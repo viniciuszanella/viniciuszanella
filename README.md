@@ -24,9 +24,16 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuszanella&show_icons=true&theme=radical)
 
-## 🔥 Skills
+## 🛠️ Skills 
 
 <!-- Skills -->
 <div style="flex-basis: 48%;">
   <img src="https://skillicons.dev/icons?i=java,mysql" /> 
+</div>
+
+## 📚 Learning 
+
+<!-- Learning -->
+<div style="flex-basis: 48%;">
+  <img src="https://skillicons.dev/icons?i=lua,arduino" /> 
 </div>
