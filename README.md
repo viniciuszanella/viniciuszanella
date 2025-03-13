@@ -36,5 +36,5 @@
 
 <!-- Skills -->
 <div style="flex-basis: 48%;">
-  <img src="[![My Skills](https://skillicons.dev/icons?i=java,mysql,oracle)](https://skillicons.dev)" /> 
+  <img src="https://skillicons.dev/icons?i=java,mysql" /> 
 </div>
