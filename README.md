@@ -12,19 +12,11 @@
   - 🌱 I’m currently studying analysis and development at Escola SESI
   
   - 💬 I am 17 years old, currently living in Brazil. I have fluent English, intermediate Spanish, and experience with JAVA and SQL.
+
+  - ⚡ I enjoy practicing sports, watching movies, and playing games!
   
   - 📫 How to reach me: **vini93112@gmail.com** 
 </p>
-
-<!-- Dropdown -->
-<details>
-  <summary>👨‍💻 More about me</summary>
-
-  - 💬 I am 17 years old, currently living in Brazil. I have fluent English and intermediate Spanish, with experience in JAVA and SQL.
-    
-  - ⚡ I enjoy practicing sports, as well as watching movies and playing games!
-
-</details>
 
 <!-- Links -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://br.linkedin.com/in/vin%C3%ADcius-zanella-836596306)
