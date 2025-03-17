@@ -35,5 +35,5 @@
 
 <!-- Learning -->
 <div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=lua,arduino" /> 
+  <img src="https://skillicons.dev/icons?i=lua,arduino&theme=light" /> 
 </div>
