@@ -28,7 +28,7 @@
 
 <!-- Skills -->
 <div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=java,mysql" /> 
+  <img src="https://skillicons.dev/icons?i=java,mysql&theme=light" /> 
 </div>
 
 ## 📚 Learning 
