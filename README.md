@@ -1,8 +1,8 @@
 <!-- Título -->
 <div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hello world</h1></summary>
-  </ul>
+  <h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=F34089&width=435&lines=Hello+world" alt="Typing SVG" />
+  </h1>
 </div>
 
 <!-- Apresentação -->
