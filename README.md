@@ -9,9 +9,9 @@
 
 <!-- Apresentação -->
 <p>
-  Hi👋, I'm Vinícius Rafael Zanella! Systems analysis and development student and IT enthusiast.
+  Hi👋, My name is Vinícius Rafael Zanella, Systems analysis and development student and IT enthusiast!
   
-  - 🌱 I’m currently studying analysis and development at Escola SESI
+  - 🌱 Currently studying analysis and development at Escola SESI
   
   - 💬 I am 17 years old, currently living in Brazil. I have fluent English, intermediate Spanish, and experience with JAVA and SQL.
 
