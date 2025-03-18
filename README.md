@@ -1,9 +1,11 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F34089FF&descAlign=50"/>
+
 <!-- Título -->
-<div id="user-content-toc">
-  <h1 align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=6000&pause=1000&color=F34089&width=435&lines=Hello+world" alt="Typing SVG" />
-  </h1>
-</div>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=F70404&center=true&width=435&lines=Hello+World" alt="Typing SVG">
+  </a>
+</p>
 
 <!-- Apresentação -->
 <p>
@@ -37,3 +39,5 @@
 <div style="flex-basis: 48%;">
   <img src="https://skillicons.dev/icons?i=lua,arduino&theme=light" /> 
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F34089FF&descAlign=50&reversal=false&section=footer"/>
