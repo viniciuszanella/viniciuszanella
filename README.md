@@ -13,9 +13,9 @@
   
   - 🌱 Currently studying analysis and development at Escola SESI
   
-  - 💬 I am 17 years old, currently living in Brazil. I have fluent English, intermediate Spanish, and experience with JAVA and SQL.
+  - 💬 I am 17 years old, currently living in Brazil. I speak fluent English, intermediate Spanish, and experience with JAVA and SQL.
 
-  - ⚡ I enjoy practicing sports, watching movies, and playing games!
+  - ⚡ I enjoy practicing sports, watching movies, and playing videogames!
   
   - 📫 How to reach me: **vini93112@gmail.com** 
 </p>
