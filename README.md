@@ -35,7 +35,7 @@
 ## 📚 Learning 
 
 <div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=figma,vercel,arduino&theme=light" /> 
+  <img src="https://skillicons.dev/icons?i=figma,vercel&theme=light" /> 
 </div>
 
 ## 🛠️ Tools
