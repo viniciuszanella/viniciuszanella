@@ -11,11 +11,11 @@
 <p>
   Hi👋, My name is Vinícius Rafael Zanella, Systems analysis and development student and IT enthusiast!
   
-  - 🌱 Currently studying analysis and development at Escola SESI
+  - 📝 Currently studying analysis and development at Escola SESI
   
-  - 💬 I am 17 years old, currently living in Brazil. I speak fluent English, intermediate Spanish, and experience with JAVA and SQL.
+  - 💬 I am 17 years old, currently living in Brazil. I speak fluent English, intermediate Spanish, and i have experience with JAVA and SQL.
 
-  - ⚡ I enjoy practicing sports, watching movies, and playing videogames!
+  - ⚡ I enjoy practicing sports, listening to music, and playing videogames!
   
   - 📫 How to reach me: **vini93112@gmail.com** 
 </p>
@@ -26,18 +26,22 @@
 <!-- GithubStats -->
 ![VariableBee GitHub stats](https://github-readme-stats.vercel.app/api?username=viniciuszanella&show_icons=true&theme=radical)
 
-## 🛠️ Skills 
+## 🧠 Skills 
 
-<!-- Skills -->
 <div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=java,mysql&theme=light" /> 
+  <img src="https://skillicons.dev/icons?i=java,python,mysql&theme=light" /> 
 </div>
 
 ## 📚 Learning 
 
-<!-- Learning -->
 <div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=lua,arduino&theme=light" /> 
+  <img src="https://skillicons.dev/icons?i=arduino&theme=light" /> 
+</div>
+
+## 🛠️ Tools
+
+<div style="flex-basis: 48%;">
+  <img src="https://skillicons.dev/icons?i=idea,vscode&theme=light" /> 
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=F34089FF&descAlign=50&reversal=false&section=footer"/>
