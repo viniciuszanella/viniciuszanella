@@ -29,7 +29,7 @@
 ## 🧠 Skills 
 
 <div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql&theme=light" /> 
+  <img src="https://skillicons.dev/icons?i=java,javascript,python,mysql&theme=light" /> 
 </div>
 
 ## 📚 Learning 
