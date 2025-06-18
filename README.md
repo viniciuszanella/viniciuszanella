@@ -17,13 +17,13 @@ Contact me:
 ## 🧠 Skills 
 
 <div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=java,python,mysql&theme=light" /> 
+  <img src="https://skillicons.dev/icons?i=figma,java,python,mysql&theme=light" /> 
 </div>
 
 ## 📚 Learning 
 
 <div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,&theme=light" /> 
+  <img src="https://skillicons.dev/icons?i=dart,flutter,react,&theme=light" /> 
 </div>
 
 ## 🛠️ Tools
