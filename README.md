@@ -2,11 +2,11 @@
 # Vinícius Rafael Zanella 💻🌐
 <p>
   
-  - 🎓 Back-end Developer, currently studying Systems analysis and development student
+  - 🎓 Back-end Developer, currently studying Systems analysis and development and +Devs2Blu
   
-  - 💬 I am 17 years old, currently living in Brazil. I speak fluent English and intermediate Spanish
+  - 💬 I am 18 years old, currently living in Brazil. I speak fluent English and intermediate Spanish
 
-  - ⚡ Outside of tech, I enjoy practicing sports, listening to music, and playing video games
+  - ⚡ Outside of tech, I enjoy practicing sports, playing video games and listening to music
 </p>
 
 <!-- Links -->
