@@ -23,7 +23,7 @@ Contact me:
 ## 📚 Learning 
 
 <div style="flex-basis: 48%;">
-  <img src="https://skillicons.dev/icons?i=dart,flutter,react,maven,spring&theme=light" /> 
+  <img src="https://skillicons.dev/icons?i=dart,flutter,react,spring&theme=light" /> 
 </div>
 
 ## 🛠️ Tools
