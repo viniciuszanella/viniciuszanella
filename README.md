@@ -2,7 +2,7 @@
 # Vinícius Rafael Zanella 💻🌐
 <p>
   
-  - 🎓 Back-end Developer, currently studying Systems analysis and development and +Devs2Blu
+  - 🎓 Currently studying Systems Analysis and Development and Flutter at +Devs2Blu
   
   - 💬 I am 18 years old, currently living in Brazil. I speak fluent English and intermediate Spanish
 
